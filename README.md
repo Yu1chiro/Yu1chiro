@@ -1,5 +1,5 @@
 # 👋 Hello Everyone, I'm Hera
-# I'm Japanese Language of Educaion Student at Ganesha University of Education
+# I'm Japanese Language of Education Student at Ganesha University of Education
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/bio-hera.appspot.com/o/IMG_20240206_021713_537%20(1).jpg?alt=media&token=a2d712f2-eec0-49a2-ab64-767f32fcf25c" alt="Me" width="500"/>
 </p>
